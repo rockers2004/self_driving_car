@@ -1,6 +1,6 @@
 # Self Driving Car (Canvas demo)
 
-Small browser demo showing a simple self-driving car simulation drawn on an HTML canvas.
+self-driving car simulation drawn on an HTML canvas.
 
 ## Project structure
 
